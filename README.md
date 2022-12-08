@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Formulário de Login Animado
+  Formulário de Login Animado
 </h1>
 
 <p align="center">

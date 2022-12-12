@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Formulário de Login Animado
+  Formulário de Login Animado
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@ O layout da aplicação:
 
 <p align="center">
   <a href="https://user-images.githubusercontent.com/93795922/205811947-62572aa6-78a9-45d7-90d0-2711d58a358e.png">
-    <img alt="Badge em Desenvolvimento" src="https://user-images.githubusercontent.com/93795922/205811947-62572aa6-78a9-45d7-90d0-2711d58a358e.png">
+    <img alt="Thumbnail do Site" src="https://user-images.githubusercontent.com/93795922/205811947-62572aa6-78a9-45d7-90d0-2711d58a358e.png">
   </a>
 				      
 
@@ -47,17 +47,18 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  
--   Fontes:  **[Poppins](https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap')**
+-   Fontes:  **[Open Sans](https://fonts.googleapis.com/css2?family=OpenSans:wght@300;400;500;600;700;800;900&display=swap)**
+-   Servidor:  **[Xampp](https://www.apachefriends.org/pt_br/download.html)**
 
 
 ---
 
 ## 🦸‍♂️ Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://media-exp1.licdn.com/dms/image/D4E03AQH1E9Au-1R3KA/profile-displayphoto-shrink_200_200/0/1668486728233?e=1675900800&v=beta&t=lZzheQN5C-kMXrIGrCo7vpp1EpQrKCa0XxNTEsAg7FQ">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Jair Willian Class</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+ <sub><b>Jair Willian Class</b></sub></a> <a href="https://avatars.githubusercontent.com/u/93795922?v=4" title="Perfil">🚀</a>
  <br />
 
 

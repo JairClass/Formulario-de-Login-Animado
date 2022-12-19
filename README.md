@@ -55,7 +55,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸‍♂️ Autor
 
-<a href="https://media-exp1.licdn.com/dms/image/D4E03AQH1E9Au-1R3KA/profile-displayphoto-shrink_200_200/0/1668486728233?e=1675900800&v=beta&t=lZzheQN5C-kMXrIGrCo7vpp1EpQrKCa0XxNTEsAg7FQ">
+<a href="https://github.com/jairclass">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/93795922?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Jair Willian Class</b></sub></a> <a href="https://avatars.githubusercontent.com/u/93795922?v=4" title="Perfil">🚀</a>
